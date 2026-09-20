@@ -1,5 +1,6 @@
 
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
+## Date: 01.09.26
 ## AIM:
 To Write a Java program to solve the below problem using Kadane's Algorithm.
 A solar company installs solar panels around a circular grid of n buildings. Each building either generates or consumes net energy, represented by integers (+ve for generated, -ve for consumed).
@@ -26,8 +27,8 @@ Constraints:
 5. Determine Final Maximum Energy: If all values are negative, return maxSum (since wrapping gives no benefit). Otherwise, return the maximum of maxSum and wrappedDifference.
    
 ## Program:
-Developed by: V Mythili 
-Register Number:  212223040123
+### Developed by: V Mythili 
+### Register Number:  212223040123
 ```
 import java.util.*;
 
